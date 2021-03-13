@@ -1,0 +1,7 @@
+server:
+  port : 9091
+
+app:
+  brainz:
+    client:
+      url: https://musicbrainz.org/ws/2/
